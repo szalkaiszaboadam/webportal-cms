@@ -1,0 +1,3 @@
+webportál készítése
+
+szabadon választott cms rendszerrel, egyedi template, (modult is írni kell hozzá), angol és magyar nyelv válaszható, téma: szaabadon válaszott (cég, iskola)
